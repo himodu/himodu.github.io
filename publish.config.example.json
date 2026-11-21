@@ -1,0 +1,6 @@
+{
+  "vaultPath": "C:/path/to/your/ObsidianVault",
+  "exclude": ["private/**", "templates/**"],
+  "allowStrings": [],
+  "maxAssetBytes": 10485760
+}
